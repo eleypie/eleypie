@@ -14,4 +14,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clorielann@gmail.com)
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Loriel's github stats](https://github-readme-stats.vercel.app/api?username=eleypie&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Loriel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eleypie&show_icons=true&theme=dark&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Loriel's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=eleypie&show_icons=true&theme=default&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
