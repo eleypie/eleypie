@@ -1,4 +1,4 @@
-### Hi, I'm Loriel! 👋
+![Header](assets/banner.png)
 
 🎓 Studying [Computer Science](https://github.com/eleypie) at Polytechnic University of the Philippines, Manila<br/>
 💻 Building projects with Laravel, React, and Bootstrap, from hotel booking systems to note-taking apps<br/>
