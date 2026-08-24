@@ -3,8 +3,8 @@
 🎓 Studying [Computer Science](https://github.com/eleypie) at Polytechnic University of the Philippines, Manila<br/>
 💻 Building projects with Laravel, React, and Bootstrap, from hotel booking systems to note-taking apps<br/>
 🏦 Interned as a **Legacy Systems Intern** at Land Bank of the Philippines, working with COBOL and mainframe systems<br/>
-🧠 Currently exploring deep learning and Vision-Language Model research<br/>
-🌱 Sharing my journey building web apps and exploring AI/ML
+🧠 Currently focused on expanding my knowledge in technology <br/>
+🌱 Sharing my journey building web apps 
 
 **Skills:**<br/>
 ![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![PHP](https://skillicons.dev/icons?i=php) ![HTML/CSS](https://skillicons.dev/icons?i=html,css) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Laravel](https://skillicons.dev/icons?i=laravel) ![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Figma](https://skillicons.dev/icons?i=figma)
